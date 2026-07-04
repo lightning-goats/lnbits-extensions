@@ -1,0 +1,25 @@
+{
+  "featured": ["incomereport", "lightning_goats", "cyberherd"],
+  "repos": [
+    {
+      "id": "incomereport",
+      "organisation": "lightning-goats",
+      "repository": "incomereport_extension"
+    },
+    {
+      "id": "lightning_goats",
+      "organisation": "lightning-goats",
+      "repository": "lightning_goats_extension"
+    },
+    {
+      "id": "cyberherd",
+      "organisation": "lightning-goats",
+      "repository": "cyberherd_extension"
+    },
+    {
+      "id": "nsecbunker",
+      "organisation": "lightning-goats",
+      "repository": "nsecbunker"
+    }
+  ]
+}
