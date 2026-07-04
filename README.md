@@ -29,6 +29,7 @@ Restart LNbits.
 | `incomereport` | Income Report | [incomereport_extension](https://github.com/lightning-goats/incomereport_extension) |
 | `lightning_goats` | Lightning Goats | [lightning_goats_extension](https://github.com/lightning-goats/lightning_goats_extension) |
 | `cyberherd` | Cyberherd | [cyberherd_extension](https://github.com/lightning-goats/cyberherd_extension) |
+| `cyberherd_messaging` | CyberHerd Messaging | [cyberherd_messaging](https://github.com/lightning-goats/cyberherd_messaging) |
 | `nsecbunker` | Nsec Bunker | [nsecbunker](https://github.com/lightning-goats/nsecbunker) |
 
 ## How it works

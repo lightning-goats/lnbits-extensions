@@ -17,6 +17,11 @@
       "repository": "cyberherd_extension"
     },
     {
+      "id": "cyberherd_messaging",
+      "organisation": "lightning-goats",
+      "repository": "cyberherd_messaging"
+    },
+    {
       "id": "nsecbunker",
       "organisation": "lightning-goats",
       "repository": "nsecbunker"
