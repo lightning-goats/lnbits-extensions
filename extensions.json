@@ -1,5 +1,9 @@
 {
-  "featured": ["incomereport", "lightning_goats", "cyberherd"],
+  "featured": [
+    "incomereport",
+    "lightning_goats",
+    "cyberherd"
+  ],
   "repos": [
     {
       "id": "incomereport",
@@ -22,9 +26,9 @@
       "repository": "cyberherd_messaging"
     },
     {
-      "id": "nsecbunker",
+      "id": "nsec_oracle",
       "organisation": "lightning-goats",
-      "repository": "nsecbunker"
+      "repository": "nsec_oracle"
     }
   ]
 }
